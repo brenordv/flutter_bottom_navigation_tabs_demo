@@ -1,16 +1,12 @@
-# flutter_bottom_tab_demo
+# Flutter Bottom Navigation Tabs Demo
 
-A new Flutter project.
+Nothing too fancy. Just a simple app showing how to use the **BottomNavigationBar**.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Printscreen showing tabs](demo_print1.jpg)
+![Printscreen showing app drawer](demo_print2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Animation showing a demo for this app](flutter_demo.gif)
